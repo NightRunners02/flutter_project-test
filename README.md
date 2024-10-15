@@ -17,16 +17,17 @@ samples, guidance on mobile development, and a full API reference.
 
 ---
 
-How to push to githup Project IDX:
-git add *
-git init
-git add *
-git status
-git add .*
-git status
-git commit -m 'first commit'
-git branch -m main
-git remote add origin https://code_api@github.com/NightRunners02/namaproject (contoh : @github.com/NightRunners02/flutter_project-test)
-git push origin main
+# How to push to githup Project IDX:
+
+- git add *
+- git init
+- git add *
+- git status
+- git add .*
+- git status
+- git commit -m 'first commit'
+- git branch -m main
+- git remote add origin https://code_api@github.com/NightRunners02/namaproject (contoh : @github.com/NightRunners02/flutter_project-test)
+- git push origin main
 
 
