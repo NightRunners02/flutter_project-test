@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ---
 
-# How to push to githup Project IDX:
+## How to push to githup Project IDX:
 
 - git add *
 - git init
